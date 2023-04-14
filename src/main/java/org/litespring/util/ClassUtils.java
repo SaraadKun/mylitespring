@@ -1,6 +1,5 @@
 package org.litespring.util;
 
-import com.sun.istack.internal.Nullable;
 
 /**
  * All rights Reserved, Designed By SARAAD
@@ -14,6 +13,8 @@ import com.sun.istack.internal.Nullable;
  * @Copyright: 2019  Inc. All rights reserved.
  * PROJECT FOR PRACTICE
  */
+
+import org.jetbrains.annotations.Nullable;
 
 /**
  * Miscellaneous class utility methods.
