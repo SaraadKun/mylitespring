@@ -24,6 +24,6 @@ hs_err_pid*
 
 #InteliJ IDEA
 classes/
-target/
-.idea/
+#target/
+#.idea/
 dependency-reduced-pom.xml
