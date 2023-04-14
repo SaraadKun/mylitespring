@@ -23,7 +23,7 @@
 hs_err_pid*
 
 #InteliJ IDEA
-#classes/
-#target/
-#.idea/
-#dependency-reduced-pom.xml
+classes/
+target/
+.idea/
+dependency-reduced-pom.xml
